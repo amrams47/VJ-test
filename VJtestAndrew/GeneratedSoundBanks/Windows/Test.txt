@@ -1,0 +1,8 @@
+Event	ID	Name			Wwise Object Path	Notes
+	3187507146	Play_Test			\Default Work Unit\Play_Test	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	225405158	VB_Concrete_Footstep_01	C:\Users\vijen\Documents\WwiseProjects\VJtestAndrew\.cache\Windows\SFX\VB_Concrete_Footstep_01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Test\VB_Concrete_Footstep_01		62908
+	562176610	VB_Case_Rub_01	C:\Users\vijen\Documents\WwiseProjects\VJtestAndrew\.cache\Windows\SFX\VB_Case_Rub_01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Test\VB_Case_Rub_01		1968160
+	865355714	VB_AluFoil_Crumple_02	C:\Users\vijen\Documents\WwiseProjects\VJtestAndrew\.cache\Windows\SFX\VB_AluFoil_Crumple_02_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Test\VB_AluFoil_Crumple_02		384064
+
