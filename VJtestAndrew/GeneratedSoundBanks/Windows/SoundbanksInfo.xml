@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="12" SoundbankVersion="140">
 	<RootPaths>
-		<ProjectRoot>C:\Users\vijen\Documents\WwiseProjects\VJtestAndrew\</ProjectRoot>
-		<SourceFilesRoot>C:\Users\vijen\Documents\WwiseProjects\VJtestAndrew\.cache\Windows\</SourceFilesRoot>
-		<SoundBanksRoot>C:\Users\vijen\Documents\WwiseProjects\VJtestAndrew\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ProjectRoot>C:\Users\vijen\Documents\GitHub\VJ-test\VJtestAndrew\</ProjectRoot>
+		<SourceFilesRoot>C:\Users\vijen\Documents\GitHub\VJ-test\VJtestAndrew\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>C:\Users\vijen\Documents\GitHub\VJ-test\VJtestAndrew\GeneratedSoundBanks\Windows\</SoundBanksRoot>
 		<ExternalSourcesInputFile></ExternalSourcesInputFile>
-		<ExternalSourcesOutputRoot>C:\Users\vijen\Documents\WwiseProjects\VJtestAndrew\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+		<ExternalSourcesOutputRoot>C:\Users\vijen\Documents\GitHub\VJ-test\VJtestAndrew\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
 	</RootPaths>
 	<DialogueEvents/>
 	<StreamedFiles/>
@@ -16,24 +16,44 @@
 			<ShortName>Init</ShortName>
 			<Path>Init.bnk</Path>
 		</SoundBank>
-		<SoundBank Id="3157003241" Language="SFX" Hash="2344233418">
+		<SoundBank Id="3157003241" Language="SFX" Hash="1164256082">
 			<ObjectPath>\SoundBanks\Default Work Unit\Test</ObjectPath>
 			<ShortName>Test</ShortName>
 			<Path>Test.bnk</Path>
 			<IncludedEvents>
 				<Event Id="3187507146" Name="Play_Test" ObjectPath="\Events\Default Work Unit\Play_Test" DurationType="OneShot" DurationMin="0.327312" DurationMax="10.2505">
 					<IncludedMemoryFiles>
+						<File Id="144323326" Language="SFX">
+							<ShortName>VB_DeoMetalBowl_Drop_01.wav</ShortName>
+							<Path>SFX\VB_DeoMetalBowl_Drop_01_10C4C929.wem</Path>
+						</File>
 						<File Id="225405158" Language="SFX">
 							<ShortName>VB_Concrete_Footstep_01.wav</ShortName>
 							<Path>SFX\VB_Concrete_Footstep_01_10C4C929.wem</Path>
+						</File>
+						<File Id="364655098" Language="SFX">
+							<ShortName>VB_DeoBottle_Open_01.wav</ShortName>
+							<Path>SFX\VB_DeoBottle_Open_01_10C4C929.wem</Path>
+						</File>
+						<File Id="545868263" Language="SFX">
+							<ShortName>VB_DeoLid_Swirl_01.wav</ShortName>
+							<Path>SFX\VB_DeoLid_Swirl_01_10C4C929.wem</Path>
 						</File>
 						<File Id="562176610" Language="SFX">
 							<ShortName>VB_Case_Rub_01.wav</ShortName>
 							<Path>SFX\VB_Case_Rub_01_10C4C929.wem</Path>
 						</File>
+						<File Id="734571584" Language="SFX">
+							<ShortName>VB_DeoBottle_PlasticBowl_Wobble_01.wav</ShortName>
+							<Path>SFX\VB_DeoBottle_PlasticBowl_Wobble_01_10C4C929.wem</Path>
+						</File>
 						<File Id="865355714" Language="SFX">
 							<ShortName>VB_AluFoil_Crumple_02.wav</ShortName>
 							<Path>SFX\VB_AluFoil_Crumple_02_10C4C929.wem</Path>
+						</File>
+						<File Id="867278039" Language="SFX">
+							<ShortName>VB_DeoBottlePlasticBowl_Drop_01.wav</ShortName>
+							<Path>SFX\VB_DeoBottlePlasticBowl_Drop_01_10C4C929.wem</Path>
 						</File>
 					</IncludedMemoryFiles>
 				</Event>

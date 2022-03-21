@@ -2,7 +2,12 @@ Event	ID	Name			Wwise Object Path	Notes
 	3187507146	Play_Test			\Default Work Unit\Play_Test	
 
 In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
-	225405158	VB_Concrete_Footstep_01	C:\Users\vijen\Documents\WwiseProjects\VJtestAndrew\.cache\Windows\SFX\VB_Concrete_Footstep_01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Test\VB_Concrete_Footstep_01		62908
-	562176610	VB_Case_Rub_01	C:\Users\vijen\Documents\WwiseProjects\VJtestAndrew\.cache\Windows\SFX\VB_Case_Rub_01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Test\VB_Case_Rub_01		1968160
-	865355714	VB_AluFoil_Crumple_02	C:\Users\vijen\Documents\WwiseProjects\VJtestAndrew\.cache\Windows\SFX\VB_AluFoil_Crumple_02_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Test\VB_AluFoil_Crumple_02		384064
+	144323326	VB_DeoMetalBowl_Drop_01	C:\Users\vijen\Documents\GitHub\VJ-test\VJtestAndrew\.cache\Windows\SFX\VB_DeoMetalBowl_Drop_01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Test\VB_DeoMetalBowl_Drop_01		175286
+	225405158	VB_Concrete_Footstep_01	C:\Users\vijen\Documents\GitHub\VJ-test\VJtestAndrew\.cache\Windows\SFX\VB_Concrete_Footstep_01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Test\VB_Concrete_Footstep_01		62908
+	364655098	VB_DeoBottle_Open_01	C:\Users\vijen\Documents\GitHub\VJ-test\VJtestAndrew\.cache\Windows\SFX\VB_DeoBottle_Open_01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Test\VB_DeoBottle_Open_01		143846
+	545868263	VB_DeoLid_Swirl_01	C:\Users\vijen\Documents\GitHub\VJ-test\VJtestAndrew\.cache\Windows\SFX\VB_DeoLid_Swirl_01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Test\VB_DeoLid_Swirl_01		128894
+	562176610	VB_Case_Rub_01	C:\Users\vijen\Documents\GitHub\VJ-test\VJtestAndrew\.cache\Windows\SFX\VB_Case_Rub_01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Test\VB_Case_Rub_01		1968160
+	734571584	VB_DeoBottle_PlasticBowl_Wobble_01	C:\Users\vijen\Documents\GitHub\VJ-test\VJtestAndrew\.cache\Windows\SFX\VB_DeoBottle_PlasticBowl_Wobble_01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Test\VB_DeoBottle_PlasticBowl_Wobble_01		231304
+	865355714	VB_AluFoil_Crumple_02	C:\Users\vijen\Documents\GitHub\VJ-test\VJtestAndrew\.cache\Windows\SFX\VB_AluFoil_Crumple_02_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Test\VB_AluFoil_Crumple_02		384064
+	867278039	VB_DeoBottlePlasticBowl_Drop_01	C:\Users\vijen\Documents\GitHub\VJ-test\VJtestAndrew\.cache\Windows\SFX\VB_DeoBottlePlasticBowl_Drop_01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Test\VB_DeoBottlePlasticBowl_Drop_01		143906
 
